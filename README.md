@@ -1,6 +1,6 @@
 ### Seja bem-vindo(a) ao meu perfil!
 
-- 👋 Olá, eu sou @AndreasBorba  <kdb><a href="#"><img align="right" height="200" width="200" style="border: 1px solid black" src="https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_500,h_246/https://joaoalexandre.com/wp-content/uploads/2019/08/Miudo-do-filme-UP.gif"/></a></kdb>
+- 👋 Olá, eu sou @AndreasBorba
 - 🎓 Estou estudando automatização de testes API Rest com RestAssured
 - 👨‍💻 Analista de Testes
 <br>
