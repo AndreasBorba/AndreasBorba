@@ -1,7 +1,7 @@
 ### Seja bem-vindo(a) ao meu perfil!
 
 - 👋 Olá, eu sou @AndreasBorba
-- 🎓 Estou estudando automatização de testes API Rest com RestAssured
+- 🎓 Estou estudando automatização de testes com Python
 - 👨‍💻 Analista de Testes
 <br>
 
